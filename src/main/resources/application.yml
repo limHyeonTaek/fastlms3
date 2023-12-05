@@ -2,9 +2,8 @@ spring:
   datasource:
     url: jdbc:mariadb://localhost:3306/minicampus
     driver-class-name: org.mariadb.jdbc.Driver
-    username: minicmpus_user
-    password: zerobase
-
+    username: root
+    password: 9999
   
   jpa:
     generate-ddl: true
