@@ -4,6 +4,7 @@ spring:
     driver-class-name: org.mariadb.jdbc.Driver
     username: minicmpus_user
     password: zerobase
+
   
   jpa:
     generate-ddl: true
